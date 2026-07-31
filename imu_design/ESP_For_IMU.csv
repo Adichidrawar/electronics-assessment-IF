@@ -1,0 +1,12 @@
+Reference,Qty,Value,Manufacturer,Manufacurer Part Number (MPN),Exclude from Position Files,Footprint,Datasheet
+"C1,C2",2,"100 nF, 50V, X7R, 0603",Murata,GRM188R71H104KA93D,${EXCLUDE_FROM_POS_FILES},Capacitor_SMD:C_0603_1608Metric,
+C3,1,"1 µF, 10V, X7R, 0603",Murata,GRM188R61A105KA61D,${EXCLUDE_FROM_POS_FILES},Capacitor_SMD:C_0603_1608Metric,
+J1,1,"7-Pin JST PH Vertical, 2.0 mm",JST,B7B-PH-K-S(LF)(SN),${EXCLUDE_FROM_POS_FILES},Connector_JST:JST_PH_B7B-PH-K_1x07_P2.00mm_Vertical,
+U1,1,6-Axis IMU,STMicroelectronics,LSM6DS3TR-C,${EXCLUDE_FROM_POS_FILES},Package_LGA:LGA-14_3x2.5mm_P0.5mm_LayoutBorder3x4y,https://www.st.com/resource/en/datasheet/lsm6ds3tr-c.pdf
+,,,,,,,
+,,,,,,,
+,,,,,,,
+,,,,,,,
+,,,,,,,
+,,,,,,,
+,,,,,,,

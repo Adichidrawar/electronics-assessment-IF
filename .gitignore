@@ -1,0 +1,12 @@
+# OS files
+.DS_Store
+Thumbs.db
+
+# KiCad temporary files
+*.bak
+*.tmp
+*.log
+*.zip
+
+# Editor history
+.history/
