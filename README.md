@@ -9,6 +9,7 @@ The assessment includes:
 - A second IMU-focused board design in the imu_design folder
 - Generated Gerber files for fabrication review
 - Project metadata and design exports for documentation and handoff
+- The solution for Part 2 — Analog front end is provided in the PDF named Part 2 — Analog front end SOLUTIONS.pdf
 
 ## Repository Structure
 
