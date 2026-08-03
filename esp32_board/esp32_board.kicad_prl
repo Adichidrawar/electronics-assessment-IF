@@ -53,7 +53,7 @@
       "board_outline_area",
       "ly_points"
     ],
-    "visible_layers": "ffffffff_ffffffff_ffffd575_df55ffff",
+    "visible_layers": "ffffffff_ffffffff_ffffd575_df55fffe",
     "zone_display_mode": 0
   },
   "git": {
@@ -63,7 +63,7 @@
     "ssh_key": ""
   },
   "meta": {
-    "filename": "esp32_project.kicad_prl",
+    "filename": "esp32_board.kicad_prl",
     "version": 5
   },
   "net_inspector_panel": {
